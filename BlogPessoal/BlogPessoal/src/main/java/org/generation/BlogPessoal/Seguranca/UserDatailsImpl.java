@@ -8,6 +8,7 @@ import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
 public class UserDatailsImpl implements UserDetails{
+	//2 CLASSE DE SECURITY A SER FEITA
 
 	//vamos criar uma classe seralizable
 	
